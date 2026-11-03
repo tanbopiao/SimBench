@@ -84,3 +84,6 @@ print(verdict["verdict"], verdict["pass_rate"])
 - 提炼中移除：硬编码本地服务端点（`127.0.0.1:8310`）、私有沙盒输出路径；HTTP 调度器改为进程内等价协议，六引擎判定矩阵改为通用状态键
 - 遵循「元极恒一」治理规范：基准资产只读、衍生独立建库
 - 许可：Apache-2.0
+---
+
+> **种子档归一**（2026-11-03 谳定）：本仓原随附的 `YUANSHEN-SEED.md` / `YUANSHEN-SEED.json` 已归一至 [Replicore 种子正仓](https://github.com/tanbopiao/Replicore)，正本唯一，本仓不再另存副本。
